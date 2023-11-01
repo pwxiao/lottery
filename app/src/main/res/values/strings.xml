@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AUSTAR百团抽奖</string>
+    <string name="deccription">
+        说明：\n
+        获取条件分为集赞和抽奖两种。\n
+        集赞:奖品1需要58赞，奖品2需要78赞，奖品3需要98赞\n
+        抽奖:报名机协+集齐30赞，可获得一次抽奖资格。\n
+        以下是奖品介绍，\n
+        最终解释权归 安徽理工大学机器人协会 所有</string>
+</resources>
